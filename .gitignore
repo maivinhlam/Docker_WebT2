@@ -1,0 +1,6 @@
+.env
+.idea
+.DS_Store
+data/mysql/*
+lemp/nginx/logs/*
+lemp/supervisor/log/*

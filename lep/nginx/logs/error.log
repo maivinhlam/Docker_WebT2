@@ -1,0 +1,4 @@
+2021/04/05 19:19:51 [warn] 10#10: conflicting server name "mysite.local" on 0.0.0.0:80, ignored
+2021/04/05 19:19:51 [warn] 10#10: conflicting server name "mysite.local" on [::]:80, ignored
+2021/04/06 11:40:41 [warn] 10#10: conflicting server name "site2.local" on 0.0.0.0:80, ignored
+2021/04/06 11:40:41 [warn] 10#10: conflicting server name "site2.local" on [::]:80, ignored
